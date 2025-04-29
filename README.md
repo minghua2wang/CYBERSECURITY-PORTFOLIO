@@ -1,10 +1,12 @@
 # 🛡️ Cybersecurity Portfolio
 Welcome to my Cybersecurity Portfolio! 
 
+
 ## 👨‍💻 About Me
-My name is Minghua Wang. 
-I am a motivated, detail-oriented cybersecurity analyst who has just become CompTIA Security+ certified. 
-I am determined to take on continuous studies, broaden my cybersecurity skills, and obtain more advanced certifications.
+ Hi! I'm Minghua Wang, a Cybersecurity enthusiast with a strong interest in security operations, threat analysis, and vulnerability management.
+
+After being Comptia Security+ certified recently, I’m currently studying for the **Cisco CCNA** certification and building real-world projects to strengthen my knowledge in SOC, SIEM, and incident response.
+
 
 ## 📜 Cybersecurity certifications
 * **🎓COURSERA/ Google Cybersecurity Certification** <br>

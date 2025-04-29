@@ -37,9 +37,11 @@ APRIL 2025 MONTREAL, CANADA
 - 🔜 CompTIA CySa+
 - :dart: ISC2 CISSP
 
-## :speech_balloon: Seeking opportunities
-I'm currently looking for cybersecurity-related opportunities
-
 ## 📬 Contact
 - 📧 Email: mingh.w5631@gmail.com
 - 💼 LinkedIn: linkedin.com/in/minghua-wang
+
+---
+
+> 🙏 Thank you for visiting! I'm always open to feedback, collaboration, and opportunities.
+

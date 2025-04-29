@@ -13,3 +13,6 @@ OCTOBER 2024 - JANUARY 2025 MONTREAL
 FEBRUARY 2025 MONTREAL
 * CompTIA/ Security+ Certified,
 APRIL 2025 MONTREAL
+
+## :speech_balloon: Seeking opportunities
+I'm currently looking for cybersecurity related opportunities

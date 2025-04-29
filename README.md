@@ -8,11 +8,11 @@ I am determined to take on continuous studies, broaden my cybersecurity skills, 
 
 ## :speech_balloon: Cybersecurity certifications
 * COURSERA/ Google Cybersecurity Certification, 
-OCTOBER 2024 - JANUARY 2025 MONTREAL
+OCTOBER 2024 - JANUARY 2025 MONTREAL, CANADA
 * COURSERA/ Google Prompting Essential,
-FEBRUARY 2025 MONTREAL
+FEBRUARY 2025 MONTREAL, CANADA
 * CompTIA/ Security+ Certified,
-APRIL 2025 MONTREAL
+APRIL 2025 MONTREAL, CANADA
 
 ## :speech_balloon: Seeking opportunities
 I'm currently looking for cybersecurity related opportunities

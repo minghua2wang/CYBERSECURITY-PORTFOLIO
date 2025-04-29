@@ -7,11 +7,11 @@ I am a motivated, detail-oriented cybersecurity analyst who has just become Comp
 I am determined to take on continuous studies, broaden my cybersecurity skills, and obtain more advanced certifications.
 
 ## 📜 Cybersecurity certifications
-* **COURSERA/ Google Cybersecurity Certification** <br>
+* **🎓COURSERA/ Google Cybersecurity Certification** <br>
 OCTOBER 2024 - JANUARY 2025 MONTREAL, CANADA
-* **COURSERA/ Google Prompting Essential** <br>
+* **🎓COURSERA/ Google Prompting Essential** <br>
 FEBRUARY 2025 MONTREAL, CANADA
-* **CompTIA/ Security+ Certified** <br>
+* **🎓CompTIA/ Security+ Certified** <br>
 APRIL 2025 MONTREAL, CANADA
 
 ## :speech_balloon: Seeking opportunities

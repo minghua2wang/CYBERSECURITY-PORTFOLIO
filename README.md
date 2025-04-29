@@ -42,4 +42,4 @@ I'm currently looking for cybersecurity-related opportunities
 
 ## 📬 Contact
 - 📧 Email: mingh.w5631@gmail.com
-- 💼 LinkedIn: linkedin.com/in/minghua-wang/
+- 💼 LinkedIn: linkedin.com/in/minghua-wang

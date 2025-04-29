@@ -29,11 +29,13 @@ APRIL 2025 MONTREAL, CANADA
 
 ## 📚 Learning Path
 
+- ✅ [ISC2 Candidate](https://www.credly.com/badges/c39380fa-380e-410a-ac76-de20f6585e93)
 - ✅ [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/34b4a7b9-d93d-4b3c-abf5-4e5dbd4e512a)
 - ✅ [Google Prompting Essentials](https://www.credly.com/badges/d2c07f36-04a2-4854-ad34-a5a267a611b1)
 - ✅ [CompTIA Security+](https://www.credly.com/badges/e8350611-3ad3-4d7e-a4dd-14e614bcd99a)
 - 🚧 Cisco CCNA
 - 🔜 CompTIA CySa+
+- :dart: ISC2 CISSP
 
 ## :speech_balloon: Seeking opportunities
 I'm currently looking for cybersecurity-related opportunities

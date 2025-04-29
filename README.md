@@ -5,7 +5,7 @@ Welcome to my Cybersecurity Portfolio!
 ## 👨‍💻 About Me
  Hi! I'm Minghua Wang, a Cybersecurity enthusiast with a strong interest in security operations, threat analysis, and vulnerability management.
 
-After being Comptia Security+ certified recently, I’m currently studying for the **Cisco CCNA** certification and building real-world projects to strengthen my knowledge in SOC, SIEM, and incident response.
+After recently earning my **CompTIA Security+** certification, I’m currently studying for the **Cisco CCNA** certification and building real-world projects to strengthen my knowledge in SOC, SIEM, and incident response.
 
 
 ## 📜 Cybersecurity certifications

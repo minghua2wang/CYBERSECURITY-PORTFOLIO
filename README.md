@@ -34,8 +34,6 @@ APRIL 2025 MONTREAL, CANADA
 - ✅ [CompTIA Security+](https://www.credly.com/badges/e8350611-3ad3-4d7e-a4dd-14e614bcd99a)
 - 🚧 Cisco CCNA
 - 🔜 CompTIA CySa+
-...
-- 
 
 ## :speech_balloon: Seeking opportunities
 I'm currently looking for cybersecurity-related opportunities

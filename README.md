@@ -20,12 +20,22 @@ After recently earning my **CompTIA Security+** certification, I’m currently s
 
 
 ## 📜 Cybersecurity certifications
-* **🎓COURSERA/ Google Cybersecurity Certification** <br>
+* **🎓COURSERA/ Google Cybersecurity Certificate** <br>
 OCTOBER 2024 - JANUARY 2025 MONTREAL, CANADA
 * **🎓COURSERA/ Google Prompting Essential** <br>
 FEBRUARY 2025 MONTREAL, CANADA
 * **🎓CompTIA/ Security+ Certified** <br>
 APRIL 2025 MONTREAL, CANADA
+
+## 📚 Learning Path
+
+- ✅ [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/34b4a7b9-d93d-4b3c-abf5-4e5dbd4e512a)
+- ✅ [Google Prompting Essentials](https://www.credly.com/badges/d2c07f36-04a2-4854-ad34-a5a267a611b1)
+- ✅ [CompTIA Security+](https://www.credly.com/badges/e8350611-3ad3-4d7e-a4dd-14e614bcd99a)
+- 🚧 Cisco CCNA
+- 🔜 CompTIA CySa+
+...
+- 
 
 ## :speech_balloon: Seeking opportunities
 I'm currently looking for cybersecurity-related opportunities

@@ -1,5 +1,5 @@
-# Minghua Wang Cybersecurity Portfolio
-
+# 🛡️ Cybersecurity Portfolio
+Welcome to my Cybersecurity Portfolio! 
 
 ## :speech_balloon: About me
 My name is Minghua Wang. 

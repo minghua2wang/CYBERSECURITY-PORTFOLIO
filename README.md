@@ -7,6 +7,17 @@ Welcome to my Cybersecurity Portfolio!
 
 After recently earning my **CompTIA Security+** certification, I’m currently studying for the **Cisco CCNA** certification and building real-world projects to strengthen my knowledge in SOC, SIEM, and incident response.
 
+## 🧠 Skills
+
+- Networking Fundamentals (TCP/IP, OSI model)
+- SIEM Analysis (e.g., Splunk, Elastic)
+- Threat Hunting & Detection
+- Log Analysis
+- Vulnerability Scanning
+- Incident Response
+- Basic Scripting (Python, Bash)
+- Windows/Linux Sysadmin Basics
+
 
 ## 📜 Cybersecurity certifications
 * **🎓COURSERA/ Google Cybersecurity Certification** <br>

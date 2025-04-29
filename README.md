@@ -1,11 +1,14 @@
 # 🛡️ Cybersecurity Portfolio
 Welcome to my Cybersecurity Portfolio! 
 
+---
 
 ## 👨‍💻 About Me
  Hi! I'm Minghua Wang, a Cybersecurity enthusiast with a strong interest in security operations, threat analysis, and vulnerability management.
 
 After recently earning my **CompTIA Security+** certification, I’m currently studying for the **Cisco CCNA** certification and building real-world projects to strengthen my knowledge in SOC, SIEM, and incident response.
+
+---
 
 ## 🧠 Skills
 
@@ -18,6 +21,7 @@ After recently earning my **CompTIA Security+** certification, I’m currently s
 - Basic Scripting (Python, Bash)
 - Windows/Linux Sysadmin Basics
 
+---
 
 ## 📜 Cybersecurity certifications
 * **🎓COURSERA/ Google Cybersecurity Certificate** <br>
@@ -26,6 +30,8 @@ OCTOBER 2024 - JANUARY 2025 MONTREAL, CANADA
 FEBRUARY 2025 MONTREAL, CANADA
 * **🎓CompTIA/ Security+ Certified** <br>
 APRIL 2025 MONTREAL, CANADA
+
+---
 
 ## 📚 Learning Path
 
@@ -36,6 +42,8 @@ APRIL 2025 MONTREAL, CANADA
 - 🚧 Cisco CCNA
 - 🔜 CompTIA CySa+
 - :dart: ISC2 CISSP
+
+---
 
 ## 📬 Contact
 - 📧 Email: mingh.w5631@gmail.com

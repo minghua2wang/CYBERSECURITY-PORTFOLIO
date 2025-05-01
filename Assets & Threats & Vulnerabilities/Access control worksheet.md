@@ -1,4 +1,18 @@
-## 
+## Scenario
+
+---
+
+### Scenario
+
+Review the scenario below. Then complete the step-by-step instructions.
+
+You’re the first cybersecurity professional hired by a growing business.
+
+Recently, a deposit was made from the business to an unknown bank account. The finance manager says they didn’t make a mistake. Fortunately, they were able to stop the payment. The owner has asked you to investigate what happened to prevent any future incidents.
+
+To do this, you’ll need to do some accounting on the incident to better understand what happened. First, you will review the access log of the incident. Next, you will take notes that can help you identify a possible threat actor. Then, you will spot issues with the access controls that were exploited by the user. Finally, you will recommend mitigations that can improve the business' access controls and reduce the likelihood that this incident reoccurs.
+
+---
 
 | Event log |
 | :---- |
@@ -13,9 +27,9 @@
 | Description: |
 | Payroll event added. FAUX\_BANK |
 
-## 
+---
 
-## Employee directory
+### Employee directory
 
 | Name | Role | Email | IP address | Status | Authorization | Last access | Start date | End date |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -30,17 +44,12 @@
 | George Harris | Security analyst | georgeharris@erems.net | 70.188.129.105 | Full-time | Admin | 05:05:22 pm (1 day ago) | 1/24/2022 | N/A |
 | Lei Chu | Marketing | lei.chu@erems.net | 53.49.27.117 | Part-time | Admin | 3:05:00 pm (2 days ago) | 11/16/2020 | 1/31/2020 |
 
-## 
-
-## 
-
-## 
+---
 
 ## Access controls worksheet
 
----
 
 |  | Note(s) | Issue(s) | Recommendation(s) |
 | :---- | :---- | :---- | :---- |
-| **Authorization /authentication** | **Date: 10/03/2023 Time: 8:29:57 AM User: Legal\\Administrator IP: 152.207.255.255 **  | **This IP address belongs to: Robert Taylor Jr. Role: Legal attorney Account end date: 12/27/2019** | **Accounts should be deactivated after the contractor's end date Least privilege should be implemented, a legal attorney should not have access to the payroll system Enable MFA** |
+| **Authorization /authentication** | -Date: 10/03/2023<br> -Time: 8:29:57 AM<br> -User: Legal\\Administrator<br> -IP: 152.207.255.255  | -This IP address belongs to:<br> Robert Taylor Jr. <br>-Role: <br>Legal attorney -Account end date: 12/27/2019 | -Accounts should be deactivated after the contractor's end date <br>-Least privilege should be implemented, a legal attorney should not have access to the payroll system <br>-Enable MFA |
 

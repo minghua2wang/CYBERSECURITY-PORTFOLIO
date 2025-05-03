@@ -1,5 +1,7 @@
 ## Phishing Email
 
+Tools: Thunderbird, VirtusTotal
+
 Your email address has been leaked and you receive an email from Paypal in German. Try to analyze the suspicious email.
 
 
